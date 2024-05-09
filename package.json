@@ -9,10 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.2.0"
-  },
-  "dependencies": {
+    "vite": "^5.2.0",
     "kaboom": "^3000.1.17",
     "terser": "^5.31.0"
+  },
+  "dependencies": {
+    
   }
 }
